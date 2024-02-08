@@ -1,0 +1,5 @@
+.venv
+FITS/
+FITS/*.sh
+FITS/*.fits
+potential_exoplanets.txt

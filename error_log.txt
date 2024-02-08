@@ -1,0 +1,213 @@
+Error processing FITS/tess2023237165326-s0069-0000000616463015-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000616463015-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000039080548-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000039080548-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000115241419-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000115241419-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000231005809-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000231005809-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000024749892-0264-s_lc.fits: Not recognized as a supported data product:
+FITS/tess2023237165326-s0069-0000000024749892-0264-s_lc.fits
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000141278888-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000141278888-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000246892930-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000246892930-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000002051817536-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000002051817536-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000041232189-0264-s_lc.fits: Not recognized as a supported data product:
+FITS/tess2023237165326-s0069-0000000041232189-0264-s_lc.fits
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000391746141-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000391746141-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000009145247-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000009145247-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000299901449-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000299901449-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000340782423-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000340782423-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000391745863-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000391745863-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000033912438-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000033912438-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000631432714-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000631432714-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000118585656-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000118585656-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000631608217-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000631608217-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000043362974-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000043362974-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000031307810-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000031307810-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000080374191-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000080374191-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000610038363-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000610038363-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000300560295-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000300560295-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000009097661-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000009097661-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000179492517-0264-s_lc.fits: Not recognized as a supported data product:
+FITS/tess2023237165326-s0069-0000000179492517-0264-s_lc.fits
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000806098605-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000806098605-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000138712055-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000138712055-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000229090493-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000229090493-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000224224515-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000224224515-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000350331875-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000350331875-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000047422547-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000047422547-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000080316647-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000080316647-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000391809264-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000391809264-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000066466756-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000066466756-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000632065839-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000632065839-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000404768956-0264-s_lc.fits: Not recognized as a supported data product:
+FITS/tess2023237165326-s0069-0000000404768956-0264-s_lc.fits
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000183374414-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000183374414-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000063688478-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000063688478-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000150322340-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000150322340-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000340006157-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000340006157-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000183591137-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000183591137-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000201288535-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000201288535-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000149572298-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000149572298-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000009166172-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000009166172-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000055478693-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000055478693-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000281728275-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000281728275-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000232079580-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000232079580-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000089500846-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000089500846-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000141423634-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000141423634-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000070785954-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000070785954-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000080428547-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000080428547-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000350334336-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000350334336-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000260708537-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000260708537-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000231074032-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000231074032-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000070742188-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000070742188-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000277015378-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000277015378-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000183531259-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000183531259-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000631707874-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000631707874-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000055784840-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000055784840-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000279616114-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000279616114-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000609918470-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000609918470-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000055556631-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000055556631-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000043373850-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000043373850-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000201293780-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000201293780-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000002056040827-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000002056040827-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000401840741-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000401840741-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000201923077-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000201923077-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000287429976-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000287429976-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000281597526-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000281597526-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000278826516-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000278826516-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000009666424-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000009666424-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000165902404-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000165902404-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000183596053-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000183596053-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000234496405-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000234496405-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000140893238-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000140893238-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000616407043-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000616407043-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000415969908-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000415969908-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000102029895-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000102029895-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000009003759-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000009003759-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000201288496-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000201288496-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000685125879-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000685125879-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000254299169-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000254299169-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000070744131-0264-s_lc.fits: Not recognized as a supported data product:
+FITS/tess2023237165326-s0069-0000000070744131-0264-s_lc.fits
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000233961205-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000233961205-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000080420341-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000080420341-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000251823163-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000251823163-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000151892884-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000151892884-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000278866211-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000278866211-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000101948569-0264-s_lc.fits: Not recognized as a supported data product:
+FITS/tess2023237165326-s0069-0000000101948569-0264-s_lc.fits
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000012861179-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000012861179-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000114858879-0264-s_lc.fits: Not recognized as a supported data product:
+FITS/tess2023237165326-s0069-0000000114858879-0264-s_lc.fits
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000149630160-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000149630160-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000024705367-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000024705367-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000149018345-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000149018345-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000684844181-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000684844181-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000141708335-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000141708335-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000009178472-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000009178472-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000260127863-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000260127863-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000260967812-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000260967812-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000115693579-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000115693579-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000140687214-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000140687214-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000284194255-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000284194255-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
+Error processing FITS/tess2023237165326-s0069-0000000350298314-0264-s_lc.fits: Error in reading Data product FITS/tess2023237165326-s0069-0000000350298314-0264-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again.
